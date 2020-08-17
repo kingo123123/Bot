@@ -8,11 +8,11 @@
 
 PREFIX=*
 
-BOT_TOKEN=NzIyMjAyNDc4NjU2ODgwNjcx.XwptKw.9zIYA0oQG_ipAhIj1RFA2h5eGhs
+BOT_TOKEN=NzQ0NzYyMTI0NjIyMTAyNjEw.Xzn7xw.p2GE1Af4hUhe8pSwqmBYkBr-QXA
 
 YTAPI_KEY=AIzaSyBK_cJdi5f_wVPmn36DZHH27E9bLEwqHZs
 
-PROJECT_DOMAIN=mazika2
+PROJECT_DOMAIN=Bot
 
 # note: .env is a shell file so there can't be spaces around =
 
