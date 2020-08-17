@@ -1,0 +1,18 @@
+# Environment Config
+
+# store your secrets and config variables in here
+
+# only invited collaborators will be able to see your .env values
+
+# reference these in your code with process.env.SECRET
+
+PREFIX=*
+
+BOT_TOKEN=NzIyMjAyNDc4NjU2ODgwNjcx.XwptKw.9zIYA0oQG_ipAhIj1RFA2h5eGhs
+
+YTAPI_KEY=AIzaSyBK_cJdi5f_wVPmn36DZHH27E9bLEwqHZs
+
+PROJECT_DOMAIN=mazika2
+
+# note: .env is a shell file so there can't be spaces around =
+
